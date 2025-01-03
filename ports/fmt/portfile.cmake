@@ -1,6 +1,6 @@
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
-    REPO git@github.com:tksasha/fmtlib/fmt
+    REPO git@github.com:tksasha/fmt
     REF "${VERSION}"
     SHA512 47ff6d289dcc22681eea6da465b0348172921e7cafff8fd57a1540d3232cc6b53250a4625c954ee0944c87963b17680ecbc3ea123e43c2c822efe0dc6fa6cef3
     HEAD_REF master
